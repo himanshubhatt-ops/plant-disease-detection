@@ -39,4 +39,5 @@ The model predicts the disease category of a given plant leaf image along with i
 
 👩‍💻 Author
 
-Nirmala Devi Bhatt
+Himanshu Bhatt 
+B.Tech CSE (AIML) student
